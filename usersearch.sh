@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL base del blog
-BASE_URL="https://www.edu.xunta.gal/centros/iesmariacasares/blog"
+BASE_URL="https://www.edu.xunta.gal/centros/CENTRO/blog"
 
 # Archivo para guardar los resultados
 OUTPUT_FILE="usuarios.txt"
